@@ -1,0 +1,3 @@
+[submodule "primeiro-deploy"]
+	path = primeiro-deploy
+	url = https://github.com/Kun7z/primeiro-deploy
